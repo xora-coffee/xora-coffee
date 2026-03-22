@@ -2,7 +2,7 @@
 
 **`Estudante de TI`**
 
-Olá! Meu nome é Diogo Cunha de Oliveira Silva, tenho 21 anos e sou de São Paulo. Sou apaixonado por tecnologia e atualmente estou cursando Ciência da Computação na FAM. Tenho grande interesse em desenvolvimento front-end, criando interfaces dinâmicas e intuitivas. Estou sempre em busca de novos desafios para expandir meu conhecimento, aprimorar minhas habilidades e contribuir com a comunidade tech. 
+Olá! Meu nome é Diogo Cunha de Oliveira Silva, tenho 22 anos e atualmente estou em transição de carreira para me tornar um Desenvolvedor Java.
 
 📫 Entre em contato comigo pelo [LinkedIn](https://www.linkedin.com/in/diogo-cunha-274305212/) ou envie um e-mail para diogo_oliveira03@outlook.com.
 
